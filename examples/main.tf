@@ -20,5 +20,5 @@ EOF
 }
 
 variable "role_name" {
-  default = "role_name"
+  default = "test_role"
 }

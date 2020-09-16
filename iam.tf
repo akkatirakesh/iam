@@ -9,6 +9,7 @@ resource "aws_iam_role" "test_role" {
 }
 
 variable "role_name" {
+
   description = "enter the role name"
 }
 
