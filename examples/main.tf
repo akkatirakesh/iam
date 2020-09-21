@@ -10,8 +10,8 @@ variable "role_name" {
 }
 
 provider "aws" {
-  access_key="AKIAQAKEBHAJAAGFMCXP"
-  secret_key="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"
+  access_key=""
+  secret_key=""
   region = "us-east-1"
 }
 
